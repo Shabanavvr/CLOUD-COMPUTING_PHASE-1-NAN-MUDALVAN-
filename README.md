@@ -1,4 +1,13 @@
 # CLOUD-COMPUTING_PHASE-1-NAN-MUDALVAN-
+NAME : SHABANA FATHIMA S
+ROLL NUMBER : 511321104090
+TECHNOLOGY TOPIC : CLOUD COMPUTING 
+PROJECT NAME: DISASTER RECOVERY PHASE-1
+
+
+
+
+
 The project involves creating a disaster recovery plan using IBM Cloud Virtual Servers. The objective is to safeguard business operations by developing a plan that ensures continuity for an on-premises virtual machine in unforeseen events. 
 
 PROBLEM STATEMENT:
@@ -156,6 +165,8 @@ Develop a coordinated business continuity plan that integrates the disaster reco
 9. Test and Validate:
 
 Regularly test and validate both the business continuity plan and the disaster recovery plan. Conduct exercises and simulations to ensure that all teams understand their roles and can execute the plans effectively.
+
+THUS THE ABOVE IS THWE DESIGN THINKING MODEL OF OUR PROJECT "Disaster Recovery". WHERE THE EACH STEPS OF 1:Disaster Recovery Strategy 2:Backup Configuration 3:Replication Setup 4:Recovery Testing 5:Business Continuity ARE WELL DESCRIBED. AND THIS IS HOW OUR PROJECT WILL BE DEVELOPED FURTHER BASED ON THE ABOVE PROJECT DESIGN MODEL
 
 
 
